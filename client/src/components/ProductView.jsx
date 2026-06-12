@@ -49,7 +49,7 @@ export default function ProductView() {
   const handleBuy = () => {
     setState((prev) => ({ ...prev, showCheckout: true }));
     Telegram.WebApp.MainButton.setParams({
-      text: `Pay $ ${getFinalPrice(product, count)}`,
+      text: "ОФОРМИТЬ ЗАКАЗ",
     }).show();
     Telegram.WebApp.HapticFeedback.impactOccurred("medium");
   };

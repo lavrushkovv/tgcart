@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/complete/iphone-9.jpg",
+      "images": ["https://cdn.dummyjson.com/products/images/complete/iphone-9.jpg"]
+    },
+    {
+      "id": 2,
+      "title": "iPhone XR",
+      "description": "Most popular phone from Apple company",
+      "price": 899,
+      "discountPercentage": 7.15,
+      "rating": 4.52,
+      "stock": 20,
+      "brand": "Apple",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/complete/iphone-xr.jpg",
+      "images": ["https://cdn.dummyjson.com/products/images/complete/iphone-xr.jpg"]
+    },
+    {
+      "id": 3,
+      "title": "Samsung Galaxy S8",
+      "description": "Samsung S8 with amazing features",
+      "price": 699,
+      "discountPercentage": 5.31,
+      "rating": 4.46,
+      "stock": 32,
+      "brand": "Samsung",
+      "category": "smartphones",
+      "thumbnail": "https://cdn.dummyjson.com/products/images/complete/samsung-galaxy-s8.jpg",
+      "images": ["https://cdn.dummyjson.com/products/images/complete/samsung-galaxy-s8.jpg"]
+    }
+  ],
+  "total": 3,
+  "skip": 0,
+  "limit": 10
+}
